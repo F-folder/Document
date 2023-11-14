@@ -9,4 +9,7 @@
     <toc-element topic="starter-topic.md">
         <toc-element topic="2023-2.md"/>
     </toc-element>
+    <toc-element topic="About-folder2.md">
+        <toc-element topic="childe2-1.md"/>
+    </toc-element>
 </instance-profile>
