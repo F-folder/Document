@@ -8,6 +8,5 @@
 
     <toc-element topic="starter-topic.md">
         <toc-element topic="2023-2.md"/>
-        <toc-element topic="202311.md"/>
     </toc-element>
 </instance-profile>
