@@ -10,4 +10,8 @@
         <description>Created after removal of "newtopic1" from folder</description>
         <accepts>newtopic1.html</accepts>
     </rule>
+    <rule id="2185992e">
+        <description>Created after removal of "About folder2" from folder</description>
+        <accepts>About-folder2.html</accepts>
+    </rule>
 </rules>

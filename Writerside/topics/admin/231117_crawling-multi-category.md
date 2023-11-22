@@ -1,5 +1,5 @@
-# 복수 카테고리 크롤링 모듈 개발
- 
+# 크롤링 복수 카테고리 모듈
+
 > Type: `refactor`  
 > Reference: krazemedia.pip.content_filter
 

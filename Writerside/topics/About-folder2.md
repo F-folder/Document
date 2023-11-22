@@ -1,3 +1,0 @@
-# About folder2
-
-Start typing here...
