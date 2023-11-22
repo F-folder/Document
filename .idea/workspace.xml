@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c27b94dc-5afd-4ee1-98f8-9552f28c7144" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/admin-readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/redirection-rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/About-folder2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Admin-Crawling-AWS-Writing.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/admin/231122_admin_aws_system.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/childe2-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/crawling/2023-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/admin/231117_crawling-multi-category.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/starter-topic.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +71,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/jako/private/git-organization/Document/Writerside/topcis2",
+    "git-widget-placeholder": "awswriting",
+    "last_opened_file_path": "/Users/jako/private/git-organization/Document",
     "writerside.last.selected.productDocument": "hi"
   }
 }]]></component>
@@ -75,6 +81,7 @@
       <recent name="$PROJECT_DIR$/Writerside/topcis2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Writerside/topics/admin" />
       <recent name="$PROJECT_DIR$/Writerside/topics/crawling" />
       <recent name="$PROJECT_DIR$/Writerside" />
     </key>
