@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27b94dc-5afd-4ee1-98f8-9552f28c7144" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c27b94dc-5afd-4ee1-98f8-9552f28c7144" name="Changes" comment="- apply, gitignore&#10;- update, README.md">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/admin-readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/admin/admin-readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -76,6 +86,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Writerside/topics/admin" />
+      <recent name="$PROJECT_DIR$/Writerside/topics" />
       <recent name="$PROJECT_DIR$/Writerside/topics/crawling" />
       <recent name="$PROJECT_DIR$/Writerside" />
     </key>
@@ -94,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="- apply, gitignore&#10;- update, README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="- apply, gitignore&#10;- update, README.md" />
   </component>
 </project>

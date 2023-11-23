@@ -1,5 +1,4 @@
-# Project
-
+# README
 
 온라인 미디어를 통해 옷, 잡화를 알게 되는 경우는 대부분 출처 및 정보를 정확하게 알 수 있지만 영화, 드라마, 예능, 콘서트, 직촬의 경우 한참을 찾아야 되는 경우가 많이 발생합니다.
 
@@ -7,30 +6,31 @@
 
 현재 `FOLDER`는 크게 3가지 영역으로 나누어 시스템을 개발하고 있습니다.
 
-- End-User의 패션 정보 공유를 위한 `Community`
-- 데이터 운영 및 관리를 위한 `Admin`
-- 콘텐츠 생성을 위한 `AI Content`
+
+1. End-User의 패션 정보 공유를 위한 `Community`  
+2. 데이터 운영 및 관리를 위한 `Admin`     
+3. 콘텐츠 생성을 위한 `AI Content`  
+
 
 # Goal
 
 패션을 사랑하고 패션 업계에 종사하는 분들과 소통하면서 일상생활에서 궁금한 옷들에 대한 정보를 보다 빠르고 정확하게 제공하는 것을 목표로 두고 있습니다.
 
-
-## Objective
+# Objective
 
 여기에 요즘 뜨고 있는 GPT의 기능을 빌려와 초기 MVP 모델을 간소화할 예정입니다.
 
 MVP 목표는 최대한 많은 트래픽과 유저 확보 자동화를 목표로 하고 있으며 추후 법인 설립과 함께. 본격적인 패션시장 장악에 나설 예정입니다.
 
-## Stack
+# Stack
 
 - `BackEnd`
-  - Python3.10
-  - FastAPI
+    - Python3.10
+    - FastAPI
 - `FrontEnd`:
-  - Next13
-  - React Query
+    - Next13
+    - React Query
 - `Infra`:
-  - AWS (EC2, ELB, Route53, RDS)
+    - AWS (EC2, ELB, Route53, RDS)
 - `Etc`
-  - Notion, Slack, Github, Figma, Miro
+    - Notion, Slack, Github, Figma, Miro

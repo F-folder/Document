@@ -6,6 +6,7 @@
                  name="folder"
                  start-page="admin-readme.md">
 
+    <toc-element topic="README.md"/>
     <toc-element topic="admin-readme.md">
         <toc-element topic="231122_admin_aws_system.md"/>
         <toc-element topic="231117_crawling-multi-category.md">
